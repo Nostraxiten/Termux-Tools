@@ -1,0 +1,3 @@
+# Termux-Tool NO usa dependencias externas.
+# Todo funciona con la biblioteca estandar de Python 3 (>=3.7).
+# No hace falta pip install de nada. Este archivo existe solo para dejarlo claro.
