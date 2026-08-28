@@ -27,15 +27,15 @@ Designed to run **100% on Termux (Android)** and also on **Kali/Debian**.
 ### Termux (Android)
 ```bash
 pkg install python git -y
-git clone https://github.com/nostraxiten/Termux-Tool
-cd Termux-Tool
+git clone https://github.com/nostraxiten/Termux-Tools
+cd Termux-Tools
 python termux-tool.py
 ```
 
 ### Kali / Debian
 ```bash
 sudo apt install python3 -y
-cd Termux-Tool
+cd Termux-Tools
 python3 termux-tool.py
 ```
 
