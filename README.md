@@ -150,12 +150,6 @@ Termux-Tool/
 
 ---
 
-## Legal Notice
+## License
 
-This tool is for **auditing your own systems or with explicit authorization**,
-and for educational purposes. Scanning third-party infrastructure without permission may be illegal.
-Your use is your responsibility.
-
----
-
-*by [@nostraxiten](https://github.com/nostraxiten)*
+MIT. See [LICENSE](LICENSE).
